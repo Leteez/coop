@@ -1,3 +1,8 @@
+##Fonctionnalités manquantes
+- actualisation automatique après la suppression d'un message depuis le panel member
+- edition d'un message
+- ...
+
 ## Project setup
 ```
 npm install
